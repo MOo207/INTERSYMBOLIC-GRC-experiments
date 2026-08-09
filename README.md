@@ -15,8 +15,16 @@ This repository contains the replication package (experiment scripts and raw res
 |-----------|-------------|
 | `scripts/` | All experiment and analysis scripts (ablation studies, LLM pipeline runs, statistical tests, SHAP/XAI analysis, figure generation) |
 | `results/` | Raw experiment outputs (JSON): unified ablation, NSL-KDD ablation, safety tables, LLM risk generation, GRC metrics, cross-dataset controls |
+| `pipeline/` | Core pipeline package imported by the scripts (risk scoring, NFCRM mapping, feature extraction, inference) |
+| `ontology/` | GRC ontology (Turtle) and SHACL shapes used for validation |
+| `rules/` | Symbolic rule definitions |
+| `data/processed/` | Cleaned datasets used by the experiments (CIC-IDS2018 subset, NSL-KDD) |
+| `data/external/` | Enrichment sources: CISA KEV snapshot, NVD enrichment, MITRE ATT&CK (enterprise), CMDB assets, NFCRM clause mapping |
+| `data/raw/NSL-KDD/` | NSL-KDD train/test files (KDDTrain+, KDDTest+) |
 | `requirements.txt` | Python dependencies |
 | `REPRODUCIBILITY.md` | Notes on reproducing the experiments |
+
+> **Note on CIC-IDS2018 raw data:** the raw CSE-CIC-IDS2018 dataset (~8 GB) is not included; download from the [official source](https://www.unb.ca/cic/datasets/ids-2018.html). The processed subset used in all experiments (`data/processed/cleaned_dataset.csv`) is included, so every reported number can be verified without the raw download. The NFCRM-1:2025 framework document is available from the [NCA regulatory documents page](https://nca.gov.sa/en/regulatory-documents/).
 
 ## Key experiments
 
