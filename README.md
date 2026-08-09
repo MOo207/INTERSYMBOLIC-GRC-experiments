@@ -1,6 +1,6 @@
 # INTERSYMBOLIC-GRC — Experiments Replication Package
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21865334.svg)](https://doi.org/10.5281/zenodo.21865334)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21865333.svg)](https://doi.org/10.5281/zenodo.21865333)
 
 Experiment code and results for:
 
@@ -46,5 +46,6 @@ MIT — see [LICENSE](LICENSE).
 
 See [CITATION.cff](CITATION.cff).
 
+- Concept DOI (all versions, recommended): [10.5281/zenodo.21865333](https://doi.org/10.5281/zenodo.21865333)
+- Version DOI (v1.1.0, complete package): [10.5281/zenodo.21865349](https://doi.org/10.5281/zenodo.21865349)
 - Version DOI (v1.0.0): [10.5281/zenodo.21865334](https://doi.org/10.5281/zenodo.21865334)
-- Concept DOI (all versions): [10.5281/zenodo.21865333](https://doi.org/10.5281/zenodo.21865333)
