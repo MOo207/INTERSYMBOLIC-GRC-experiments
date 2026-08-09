@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+title: "INTERSYMBOLIC-GRC Experiments: Replication Package for an Intersymbolic AI Framework for Technical Asset Risk Assessment Under NFCRM-1:2025"
+type: software
+authors:
+  - family-names: "Alamawy"
+    given-names: "Mohammed Ismail"
+    email: "461020996@stu.iu.edu.sa"
+    affiliation: "Islamic University of Madinah"
+repository-code: "https://github.com/MOo207/INTERSYMBOLIC-GRC-experiments"
+license: MIT
+version: 1.0.0
+date-released: 2026-08-10
