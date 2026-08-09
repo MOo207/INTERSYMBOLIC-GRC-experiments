@@ -1,5 +1,7 @@
 # INTERSYMBOLIC-GRC — Experiments Replication Package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21865334.svg)](https://doi.org/10.5281/zenodo.21865334)
+
 Experiment code and results for:
 
 > **INTERSYMBOLIC-GRC: An Intersymbolic AI Framework for Technical Asset Risk Assessment Under NFCRM-1:2025**
@@ -34,4 +36,7 @@ MIT — see [LICENSE](LICENSE).
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff). A Zenodo DOI badge will appear here after the first release is archived.
+See [CITATION.cff](CITATION.cff).
+
+- Version DOI (v1.0.0): [10.5281/zenodo.21865334](https://doi.org/10.5281/zenodo.21865334)
+- Concept DOI (all versions): [10.5281/zenodo.21865333](https://doi.org/10.5281/zenodo.21865333)

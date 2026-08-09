@@ -8,6 +8,11 @@ authors:
     email: "461020996@stu.iu.edu.sa"
     affiliation: "Islamic University of Madinah"
 repository-code: "https://github.com/MOo207/INTERSYMBOLIC-GRC-experiments"
+doi: 10.5281/zenodo.21865334
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21865333
+    description: "Concept DOI (all versions)"
 license: MIT
 version: 1.0.0
 date-released: 2026-08-10
